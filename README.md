@@ -6,7 +6,7 @@ Also building a platform where juniors can learn and contribute to one of my pro
 Right now, I'm:  
 🛠️ Writing a compiler for custom hardware as part of my internship  
 🧠 Building a basic quantum computing library (`mimiQ++`)  
-💻 Developing a simple kernel from scratch (`nectarineOS`), but its on hold for sometime now, I'll get back to it.  
+💻 Developing a simple kernel from scratch (`nectarineOS`), but on hold for a while now, will get back soon 🤞.  
 🌱 Setting up a space for easy contributions to mimiQ++
 
 ### 📊 Most Used Languages
