@@ -4,7 +4,7 @@ I'm just poking around some low-level programming stuff — working on kernels, 
 Also building a platform where juniors can learn and contribute to one of my projects (mimiQ++).
 
 Right now, I'm:  
-🛠️ Writing a compiler for custom hardware as part of my internship  
+🛠️ Working on a compiler for custom hardware as part of my internship  
 🧠 Building a basic quantum computing library (`mimiQ++`)  
 💻 Developing a simple kernel from scratch (`nectarineOS`), but on hold for a while now, will get back soon 🤞.  
 🌱 Setting up a space for easy contributions to mimiQ++
